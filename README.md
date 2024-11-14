@@ -1,7 +1,6 @@
-## Hi there 👋
+## BÙI VĂN ĐẠT - UNETI
 
-<!--
-**ht11156/ht11156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# University: Trường Đại học Kinh tế - Kỹ thuật Công nghiệp
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
